@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "buildingId": 49,
+    "boilerId": 29,
+    "startTimestamp": "10/11/2020",
+    "endTimestamp": "10/12/2020",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 2,
+    "buildingId": 50,
+    "boilerId": 25,
+    "startTimestamp": "12/10/2020",
+    "endTimestamp": "12/11/2020",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 3,
+    "buildingId": 23,
+    "boilerId": 3,
+    "startTimestamp": "09/20/2020",
+    "endTimestamp": "09/23/2020",
+    "maintenanceType": "Eventual"
+  },
+  {
+    "id": 4,
+    "buildingId": 12,
+    "boilerId": 5,
+    "startTimestamp": "11/03/2020",
+    "endTimestamp": "11/04/2020",
+    "maintenanceType": "Eventual"
+  },
+  {
+    "id": 5,
+    "buildingId": 4,
+    "boilerId": 9,
+    "startTimestamp": "11/01/2020",
+    "endTimestamp": "11/02/2020",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 6,
+    "buildingId": 7,
+    "boilerId": 12,
+    "startTimestamp": "11/03/2020",
+    "endTimestamp": "11/06/2020",
+    "maintenanceType": "Preventive"
+  },
+  {
+    "id": 7,
+    "buildingId": 89,
+    "boilerId": 4,
+    "startTimestamp": "11/11/2020",
+    "endTimestamp": "11/13/2020",
+    "maintenanceType": "Preventive"
+  }
+]
